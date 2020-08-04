@@ -25,3 +25,6 @@ A simple ember addon that displays the amount of page scrolled
 * `ember build`
 
 For more information on using ember-cli, visit [http://ember-cli.com/](http://ember-cli.com/).
+
+## Upcoming Features
+:boom:	: Custom scroll to top button which is now predefined
