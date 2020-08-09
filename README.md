@@ -1,6 +1,6 @@
 # Ember-scroll-indicator
 
-A simple ember addon that displays the amount of page scrolled
+A simple ember addon that displays the amount of page scrolled and automatically displays scroll to top button when page is scrolled
 
 ## Installation
 
