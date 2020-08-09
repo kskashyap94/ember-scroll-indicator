@@ -45,6 +45,9 @@
     "ember-cli-htmlbars": "^1.0.10",
     "ember-cli-htmlbars-inline-precompile": "^0.3.3"
   },
+  "publishConfig": { 
+    "registry": "https://npm.pkg.github.com/" 
+  },
   "ember-addon": {
     "configPath": "tests/dummy/config",
     "demoURL": "https://kskashyap94.github.io/ember-scroll-indicator/"
